@@ -28,6 +28,7 @@ Este é um projeto desenvolvido para a disciplina de Tecnoligia para Front-End A
 
  -Exclusão de Notícias:
    - Remove notícias do sistema permanentemente.
+ 
  -Cursos
    - Informações sobre alguns cursos que a UNIESP oferece.
 
