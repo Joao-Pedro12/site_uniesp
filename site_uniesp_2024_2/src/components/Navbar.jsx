@@ -39,6 +39,9 @@ const Navbar = () => {
             <Button color="inherit" component={Link} to="/admin-noticias">
               Admin
             </Button>
+            <Button color="inherit" component={Link} to="/cursos-noticias">
+              Cursos
+            </Button>
           </Box>
           <Box sx={{ display: { xs: 'flex', md: 'none' } }}>
             {/* Box visível em telas menores, com ícone de menu */}
@@ -64,6 +67,10 @@ const Navbar = () => {
               <MenuItem onClick={handleMenuClose} component={Link} to="/admin-noticias">
                 Admin
               </MenuItem>
+              <MenuItem onClick={handleMenuClose} component={Link} to="/cursos-noticias">
+                Cursos
+              </MenuItem>
+              
             </Menu>
           </Box>
         </Toolbar>

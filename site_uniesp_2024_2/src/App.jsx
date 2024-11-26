@@ -11,6 +11,7 @@ import VisualizaNoticia from './pages/VisualizaNoticia'
 import AdminNoticias from './pages/admin/AdminNoticias'
 import CadastroNoticia from './pages/admin/CadastroNoticia'
 import EditarNoticia from './pages/admin/EditarNoticia'
+import Cursos from './pages/Cursos'
 
 const App = () => {
   return (
@@ -35,6 +36,7 @@ const App = () => {
             <Route path="/admin-noticias" element={<AdminNoticias />} />
             <Route path="/cadastrar-noticia" element={<CadastroNoticia />} />
             <Route path="/editar-noticia/:id" element={<EditarNoticia />} />
+            <Route path="/cursos-noticias" element={<Cursos /> }/>
           </Routes>
 
         </Box>
