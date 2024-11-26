@@ -1,39 +1,19 @@
-Site Uniesp 2024
+-Site Uniesp 2024
 
-Projeto desenvolvido para a disciplina de Tecnoligia para Front-End Avançado da UNIESP.
+ Projeto desenvolvido para a disciplina de Tecnoligia para Front-End Avançado da UNIESP.
 
-Bibliotecas Utilizadas:
+ Bibliotecas Utilizadas:
 
-React: Estrutura os componentes(Navbar e os formulários) e gerencia os estados e efeitos da aplicação.
+  *React: Estrutura os componentes(Navbar e os formulários) e gerencia os estados e efeitos da aplicação.
 
-React Router Dom: Gerencia as rotas e navegação entre páginas pelo ID como inicial, notícias e contato.
+  *React Router Dom: Gerencia as rotas e navegação entre páginas pelo ID como inicial, notícias e contato.
 
-Axios: Realiza requisições HTTP. Comunicação com o backend falso (json-server), para buscar, cadastrar, editar e deletar notícias.
+  *Axios: Realiza requisições HTTP. Comunicação com o backend falso (json-server), para buscar, cadastrar, editar e deletar notícias.
 
-Material-UI (MUI): Fornece componentes prontos e estilizados, como botões e campos de texto.
+  *Material-UI (MUI): Fornece componentes prontos e estilizados, como botões e campos de texto.
 
-JSON-Server: Simula um backend RESTful para armazenar e manipular dados das notícias.
+  *JSON-Server: Simula um backend RESTful para armazenar e manipular dados das notícias.
 
-Vite: Configura o ambiente de desenvolvimento e build rápido.
+  *Vite: Configura o ambiente de desenvolvimento e build rápido.
 
--Funcionalidades do Projeto:
-
--Cadastro de Notícias na page Admin:
-
-Permite adicionar notícias com título, subtítulo e texto.
-Dados armazenados localmente utilizando o json-server.
-
--Aba Cursos:
-Permite que o leitor veja alguns dos cursos fornecidos pela UNIESP.
-
--Listagem de Notícias:
-
-Exibe todas as notícias cadastradas em uma interface amigável.
-Cada item possui opções para edição e exclusão
-
--Edição de Notícias:
-
-Permite alterar o título, subtítulo e texto das notícias cadastradas.
--Exclusão de Notícias:
-
-Remove notícias do sistema permanentemente.
+Tomado conhecimento do código, fiz um acrécimo da página ''Cursos'' que por sua vez, teve seu espaço na NavBar.
