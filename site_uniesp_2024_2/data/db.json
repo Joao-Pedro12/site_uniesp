@@ -1,0 +1,27 @@
+{
+  "noticias": [
+    {
+      "titulo": "Semana de Provas",
+      "subtitulo": "essa semana vai ser tenso",
+      "texto": "é pra se lascar e morar em bayeux",
+      "id": "1"
+    },
+    {
+      "titulo": "Sou mais ser devops",
+      "texto": "é isso ai",
+      "id": "3"
+    },
+    {
+      "id": "8967",
+      "titulo": "oioi",
+      "subtitulo": "teste",
+      "texto": "TESTE"
+    },
+    {
+      "id": "4b04",
+      "titulo": "jp",
+      "subtitulo": "jp",
+      "texto": "jp"
+    }
+  ]
+}
